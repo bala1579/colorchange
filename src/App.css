@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+.container
+{
+  height: 300px;
+  width: 600px;
+  display: flex;
+  justify-content: space-around;
+  border: 3px solid black;
+  margin: 0 auto;
+}
